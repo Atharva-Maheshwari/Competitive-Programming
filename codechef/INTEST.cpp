@@ -1,4 +1,3 @@
-
 //Problem-Enormous Test Input
 // Note that this problem is for testing fast input-output.
 // We can use scanf, printf in C langauge, which are quite fast in general :)
